@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "stack implementation/1.0.0": {
+        "dependencies": {
+          "elmah.corelibrary": "1.2.2"
+        },
+        "runtime": {
+          "stack implementation.dll": {}
+        }
+      },
+      "elmah.corelibrary/1.2.2": {
+        "runtime": {
+          "lib/Elmah.dll": {
+            "assemblyVersion": "1.2.14706.0",
+            "fileVersion": "1.2.14706.955"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stack implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "elmah.corelibrary/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OEx4ds9r2bw2/45VZwfw11lLv4y+mC2FUZxp7LsjmauFxj92K1kx8hafSBvls+V9s0WH0wv84B1LfWN/EaGfkg==",
+      "path": "elmah.corelibrary/1.2.2",
+      "hashPath": "elmah.corelibrary.1.2.2.nupkg.sha512"
+    }
+  }
+}

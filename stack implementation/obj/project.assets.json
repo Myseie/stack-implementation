@@ -1,0 +1,117 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "elmah.corelibrary/1.2.2": {
+        "type": "package",
+        "compile": {
+          "lib/Elmah.dll": {}
+        },
+        "runtime": {
+          "lib/Elmah.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "elmah.corelibrary/1.2.2": {
+      "sha512": "OEx4ds9r2bw2/45VZwfw11lLv4y+mC2FUZxp7LsjmauFxj92K1kx8hafSBvls+V9s0WH0wv84B1LfWN/EaGfkg==",
+      "type": "package",
+      "path": "elmah.corelibrary/1.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elmah.corelibrary.1.2.2.nupkg.sha512",
+        "elmah.corelibrary.nuspec",
+        "lib/Elmah.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "elmah.corelibrary >= 1.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\emil_\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Programmering\\Programmering\\stack implementation\\stack implementation.csproj",
+      "projectName": "stack implementation",
+      "projectPath": "D:\\Programmering\\Programmering\\stack implementation\\stack implementation.csproj",
+      "packagesPath": "C:\\Users\\emil_\\.nuget\\packages\\",
+      "outputPath": "D:\\Programmering\\Programmering\\stack implementation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\emil_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "elmah.corelibrary": {
+            "target": "Package",
+            "version": "[1.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'elmah.corelibrary 1.2.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "elmah.corelibrary",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

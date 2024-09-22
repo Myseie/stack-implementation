@@ -1,0 +1,17 @@
+D:\Programmering\Programmering\stack implementation\bin\Debug\net8.0\stack implementation.exe
+D:\Programmering\Programmering\stack implementation\bin\Debug\net8.0\stack implementation.deps.json
+D:\Programmering\Programmering\stack implementation\bin\Debug\net8.0\stack implementation.runtimeconfig.json
+D:\Programmering\Programmering\stack implementation\bin\Debug\net8.0\stack implementation.dll
+D:\Programmering\Programmering\stack implementation\bin\Debug\net8.0\stack implementation.pdb
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.AssemblyInfo.cs
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.dll
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\refint\stack implementation.dll
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.pdb
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.genruntimeconfig.cache
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\ref\stack implementation.dll
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack implementation.csproj.AssemblyReference.cache
+D:\Programmering\Programmering\stack implementation\bin\Debug\net8.0\Elmah.dll
+D:\Programmering\Programmering\stack implementation\obj\Debug\net8.0\stack im.B1D05F31.Up2Date
